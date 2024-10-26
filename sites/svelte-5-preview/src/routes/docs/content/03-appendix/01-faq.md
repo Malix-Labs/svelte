@@ -126,13 +126,13 @@ No. You can do the migration towards runes incrementally when Svelte 5 comes out
 
 Right now!
 
-```bash
+```sh
 npm install svelte@next
 ```
 
 You can also opt into Svelte 5 when creating a new SvelteKit project:
 
-```bash
+```sh
 npx sv create
 ```
 

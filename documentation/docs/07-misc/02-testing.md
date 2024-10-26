@@ -10,7 +10,7 @@ Unit tests allow you to test small isolated parts of your code. Integration test
 
 To get started, install Vitest:
 
-```bash
+```sh
 npm install -D vitest
 ```
 
@@ -103,7 +103,7 @@ It is possible to test your components in isolation using Vitest.
 
 To get started, install jsdom (a library that shims DOM APIs):
 
-```bash
+```sh
 npm install -D jsdom
 ```
 
