@@ -1,5 +1,11 @@
 # svelte
 
+## 5.1.4
+
+### Patch Changes
+
+- fix: add empty stack to `CompileDiagnostic` to show error on build ([#13942](https://github.com/sveltejs/svelte/pull/13942))
+
 ## 5.1.3
 
 ### Patch Changes
